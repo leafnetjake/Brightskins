@@ -1,0 +1,7 @@
+## Interface: 90005
+## Version: v1.0.0
+## Title: Brightskins
+## Notes: Glow with beauty
+## Author: Shambler(Reinha) @ EU-Kazzak
+
+Brightskins.lua
